@@ -1,0 +1,31 @@
+{
+
+    "manifest_version": 2,
+    "name": "Bad News",
+    "version": "1.0.0",
+  
+    "description": "Helps control social media addiction.",
+  
+    "icons": {
+      "48": "icons/words-48.png",
+      "96": "icons/words-96.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.instagram.com/*"],
+        "js": ["instagram.js"]
+      },
+      {
+        "matches": ["*://*.facebook.com/"],
+        "js": ["facebook.js"]
+      }
+      ,
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["youtube.js"]
+      }
+    ]
+  
+  }
+  
