@@ -20,7 +20,7 @@
 <h3 align="center">Bad News</h3>
 
   <p align="center">
-    This is a Firefox extension that hides agorithmic feeds and comments.
+    This is a Firefox extension that hides algorithmic feeds and comments.
     <!-- <br />
     <a href="https://github.com/MattKwong/badnews"><strong>Explore the docs (TBD) »</strong></a> -->
     <br />
