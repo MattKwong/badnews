@@ -66,7 +66,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://youtube.com)
 This is a Firefox extension to hide newsfeeds and comments for Facebook, Instagram, and Youtube. It was made to help me be more intentional with the supported websites.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -209,4 +209,4 @@ Project Link: [https://github.com/MattKwong/badnews](https://github.com/MattKwon
 [license-url]: https://github.com/MattKwong/badnews/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kwongmatthew
-[product-screenshot]: images/sample.png
+[product-screenshot]: sample.png
