@@ -13,18 +13,25 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.instagram.com/*"],
-        "js": ["instagram.js"]
-      },
-      {
         "matches": ["*://*.facebook.com/"],
         "js": ["facebook.js"]
+      }
+      ,
+      {
+        "matches": ["*://*.instagram.com/*"],
+        "js": ["instagram.js"]
+      }
+      ,
+      {
+        "matches": ["*://*.yahoo.com/*"],
+        "js": ["yahoo.js"]
       }
       ,
       {
         "matches": ["*://*.youtube.com/*"],
         "js": ["youtube.js"]
       }
+      
     ]
   
   }
