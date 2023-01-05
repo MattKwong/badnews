@@ -2,9 +2,9 @@
 
     "manifest_version": 2,
     "name": "Bad News",
-    "version": "1.0.0",
+    "version": "1.1.0",
   
-    "description": "Helps control social media addiction.",
+    "description": "Helps control digital addiction.",
   
     "icons": {
       "48": "icons/words-48.png",
