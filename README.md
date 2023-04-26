@@ -67,7 +67,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://youtube.com)
-This is a Firefox extension to hide newsfeeds and comments for Facebook, Instagram, and Youtube. It was made to help me be more intentional with the supported websites.
+This is a Firefox extension to hide newsfeeds and comments for Facebook, Instagram, LinkedIn, Yahoo and Youtube. It was made to help me be more intentional with the supported websites.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
