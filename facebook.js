@@ -14,12 +14,12 @@ function hideNewsfeed() {
     var blockingCss = 
         `
         /* Remove Stories/Reels/Rooms - Desktop */
-        #ssrb_top_of_home_start + div {
+        [aria-label="stories tray"] {
             display: none !important;
         }
         
         /* Remove Main News Feed - Desktop */
-        #ssrb_composer_end ~ div {
+        [role="feed"] {
             display: none !important;
         }
 
