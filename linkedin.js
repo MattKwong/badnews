@@ -14,7 +14,12 @@ function hideNewsfeed() {
     var blockingCss = 
         `
         /* Remove News Feed - Desktop */
-        .scaffold-finite-scroll {
+        [data-finite-scroll-hotkey-context="FEED"] {
+            display: none !important;
+        }
+
+        /* Remove LinkedIn News - Desktop */
+        [aria-label="LinkedIn News"] {
             display: none !important;
         }
         `;
