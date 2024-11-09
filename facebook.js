@@ -22,9 +22,6 @@ function hideNewsfeed() {
         [role="feed"] {
             display: none !important;
         }
-        #ssrb_composer_end ~ div {
-            display: none !important;
-        }
 
         /* Remove Watch Links */
         li > span > div > a[href="/watch/?ref=tab"] {
