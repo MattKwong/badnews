@@ -38,6 +38,11 @@ function hideNewsfeed() {
         .ytd-comments {
             display: none !important;
         }
+        
+        /* Remove shorts from Subscriptions Page - Desktop */
+        [is-slim-media=""] {
+            display: none !important;
+        }
         `;
 
     var style = document.createElement('style');
